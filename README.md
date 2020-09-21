@@ -1,14 +1,17 @@
-# Hi there 👋 I'm Marco Theo Aguilar Butalid
+# Hi there 👋 I'm Marco Theo
 
-### Fun Facts
-1. I'm Fun
-2. Passionate
+### About Me
+I enjoy building web applications and the whole process of building it.
+I enjoy learning different kinds of technologies as it amazes me on how
+it can build applications and making integrations smoother. As of now I'm learning
+more about *cloud technologies*.
 
 ---
 
-### About me
-1. I'm Fun
-2. Passionate
+### 🔭 Projects:
+
+-[PMD LENDING APPLICATION](https://pmdlending.com)
+-[A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/)
 
 <!--
 **mabutalid/mabutalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
