@@ -20,7 +20,8 @@ more about *cloud technologies*.
   * [<img width="26px" src="./images/tailwindcss.svg" />](./images/tailwindcss.svg) 
   [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) 
   [<img width="26px" src="./images/react.svg" />](./images/react.svg) 
-  [<img width="26px" src="./images/redis.svg" />](./images/redis.svg) 
+  * [<img width="26px" src="./images/redis.svg" />](./images/redis.svg) 
+  [<img width="26px" src="./images/mysql.svg" />](./images/mysql.svg) 
   * [<img width="26px" src="./images/docker.svg" />](./images/docker.svg) 
   [<img width="26px" src="./images/gitlab.svg" />](./images/gitlab.svg) 
 
