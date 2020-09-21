@@ -4,6 +4,8 @@
 1. I'm Fun
 2. Passionate
 
+---
+
 ### About me
 1. I'm Fun
 2. Passionate
