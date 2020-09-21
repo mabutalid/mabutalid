@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Marco Theo Aguilar Butalid
 
-### HEY 🔭
+### Fun Facts
+1. I'm Fun
+2. Passionate
+
 <!--
 **mabutalid/mabutalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
