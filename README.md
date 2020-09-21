@@ -24,6 +24,7 @@ more about *cloud technologies*.
   * [<img width="26px" src="./images/docker.svg" />](./images/docker.svg) 
 
 * Things I'm currenlty improving
+  * Microsoft Azure
   * Data structures
   * Algorithms
 
@@ -31,9 +32,9 @@ more about *cloud technologies*.
 
 ### Cloud Technologies I have learned:
 
-* [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg)
-* [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg) 
-* [<img width="26px" src="./images/heroku.svg" />](./images/heroku.svg)
+* [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg) *aws*
+* [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg)  *netlify*
+* [<img width="26px" src="./images/heroku.svg" />](./images/heroku.svg) *heroku*
 
 ---
 
