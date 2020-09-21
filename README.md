@@ -30,7 +30,7 @@ more about *cloud technologies*.
 
 ---
 
-### Cloud Technologies I have learned:
+### [<img width="26px" src="./images/docker.svg" />](./images/docker.svg) Cloud Technologies I have learned:
 
 * [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg) *aws*
 * [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg)  *netlify*
@@ -42,6 +42,8 @@ more about *cloud technologies*.
 
 1. [PMD LENDING APPLICATION](https://pmdlending.com) - built with nodeJS, reactJS, redis, RDS Mysql, Docker, and hosted in AWS EC2
 2. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
+3. *Project I'm currently working on* - [sample UI](https://mediaclone.herokuapp.com/)  
+---
 
 ---
 
