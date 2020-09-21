@@ -40,8 +40,8 @@ more about *cloud technologies*.
 
 ### 🔭 Projects:
 
-1. [PMD LENDING APPLICATION](https://pmdlending.com)
-2. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/)
+1. [PMD LENDING APPLICATION](https://pmdlending.com) - built with nodeJS, reactJS, redis, RDS Mysql, Docker, and hosted in AWS EC2
+2. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
 
 ---
 
