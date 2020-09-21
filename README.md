@@ -10,7 +10,7 @@ more about *cloud technologies*.
 
 ### 🔭 Projects:
 
-[PMD LENDING APPLICATION](https://pmdlending.com)\ 
+[PMD LENDING APPLICATION](https://pmdlending.com) (<-- two spaces)
 [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/)
 
 <!--
