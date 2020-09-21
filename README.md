@@ -10,8 +10,8 @@ more about *cloud technologies*.
 
 ### 🔭 Projects:
 
--[PMD LENDING APPLICATION](https://pmdlending.com)
--[A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/)
+*[PMD LENDING APPLICATION](https://pmdlending.com)
+*[A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/)
 
 <!--
 **mabutalid/mabutalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
