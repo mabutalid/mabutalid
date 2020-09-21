@@ -8,6 +8,29 @@ more about *cloud technologies*.
 
 ---
 
+### ⚡ Learned/Learning
+*Things I have learned:
+  *HTML
+  *CSS
+  *tailwindcss
+  *javascript
+  *Java
+  *C#
+  *building an api
+  *nodeJS
+  *reactJS
+  *redis
+  *gitlab CI/CD
+  *AWS technologies: (EC2, RDS, S3, ROUTE53, CERTIFCATE MANAGER, ELB, AUTOSCALING)
+
+*Things I'm currenlty learning/improving
+  *Docker
+  *Docker CD/CD
+  *Data structures
+  *Algorithms
+
+---
+
 ### 🔭 Projects:
 
 1. [PMD LENDING APPLICATION](https://pmdlending.com)
@@ -15,8 +38,8 @@ more about *cloud technologies*.
 
 ---
 
-### 👯 Im open for any project collaboration:
-Contact me through:  
+### 👯 I'm open for any project collaboration:
+**Contact me through:**  
 marcotheobutalid@gmail.com  
 theoaguilar123@gmail.com
 <!--
