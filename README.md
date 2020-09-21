@@ -16,7 +16,7 @@ more about *cloud technologies*.
 ---
 
 ### 👯 Im open for any project collaboration:
-Contact me through:
+Contact me through:  
 marcotheobutalid@gmail.com  
 theoaguilar123@gmail.com
 <!--
