@@ -13,7 +13,7 @@ more about *cloud technologies*.
   * HTML
   * CSS
   * tailwindcss
-  * ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =100)
+  * ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png){ width=20% }
   * Java
   * C#
   * building an api
