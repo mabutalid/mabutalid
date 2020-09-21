@@ -45,6 +45,10 @@ more about *cloud technologies*.
 3. *Project I'm currently working on* - [sample UI](https://mediaclone.herokuapp.com/)  
 ---
 
+### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Certifcates/Awards:
+
+* [AWS Certified Cloud Practitioner (CLF-C01)](https://www.youracclaim.com/badges/fc68ef7f-ee20-41a2-86e0-1e40f614533e/linked_in_profile)
+* Honor studen SY 2018-2019
 ---
 
 ### 👯 I'm open for any project collaboration:
