@@ -30,7 +30,7 @@ more about *cloud technologies*.
 
 ---
 
-### [<img width="26px" src="./images/docker.svg" />](./images/docker.svg) Cloud Technologies I have learned:
+### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Cloud Technologies I have learned:
 
 * [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg) *aws*
 * [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg)  *netlify*
