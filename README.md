@@ -16,13 +16,11 @@ more about *cloud technologies*.
   * [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)  
   [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)   
   [<img width="26px" src="./images/csharp.svg" />](./images/csharp.svg)
-  * building an api
-  * tailwindcss
-  * nodeJS
-  * reactJS
-  * redis
-  * gitlab CI/CD
-  * AWS technologies: (EC2, RDS, S3, ROUTE53, CERTIFCATE MANAGER, ELB, AUTOSCALING)
+  * [<img width="26px" src="./images/tailwindcss.svg" />](./images/tailwindcss.svg) 
+  [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) 
+  [<img width="26px" src="./images/react.svg" />](./images/react.svg) 
+  [<img width="26px" src="./images/redis.svg" />](./images/redis.svg) 
+  [<img width="26px" src="./images/gitlab.svg" />](./images/gitlab.svg) 
 
 * Things I'm currenlty learning/improving
   * Docker
