@@ -29,6 +29,14 @@ more about *cloud technologies*.
 
 ---
 
+### Cloud Technologies I have learned:
+
+* [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg)
+* [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg) 
+* [<img width="26px" src="./images/heroku.svg" />](./images/heroku.svg)
+
+---
+
 ### 🔭 Projects:
 
 1. [PMD LENDING APPLICATION](https://pmdlending.com)
