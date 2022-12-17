@@ -13,7 +13,7 @@ it can build applications and making integrations smoother. I'm always trying ne
   * Frontend frameworks - ReactJS, NextJS, SolidJS, Vue, TailwindCSS, ChakraUI, MaterialUi, and Zustand
   * Backend frameworks - TRPC, NestJS, Hapi, and ExpressJS
   * Infrastracture as a Code Frameworks - CDK and SST
-  * Databases - PlanetScale(MySql serverless database), Dynamodb, and Mongdb
+  * Databases - PlanetScale(MySql serverless database)/RDS, Dynamodb, and Mongdb
   * AWS is my go to cloud technology other than that I have used vercel for deploying simple projects
 
 ---
