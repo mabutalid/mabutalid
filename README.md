@@ -8,7 +8,7 @@ more about *cloud technologies*.
 
 ---
 
-### ⚡ My Skill Set [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) 
+### ⚡ My Skill Set [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) [<img width="26px" src="./images/react.svg" />](./images/react.svg) [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg)
 
   * [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
    [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) 
