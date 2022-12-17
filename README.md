@@ -3,27 +3,17 @@
 ### About Me
 I enjoy building web applications and the whole process of building it.
 I enjoy learning different kinds of technologies as it amazes me on how
-it can build applications and making integrations smoother. As of now I'm learning
-more about *cloud technologies*.
+it can build applications and making integrations smoother. I'm always trying new things out especially now a days where new technologies are emerging.
 
 ---
 
-### ⚡ My Skill Set [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) [<img width="26px" src="./images/react.svg" />](./images/react.svg) [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg)
+### ⚡ Skill Set [<img width="26px" src="./images/node-dot-js.svg" />](./images/node-dot-js.svg) [<img width="26px" src="./images/react.svg" />](./images/react.svg) [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg)
 
-  * React
-
-* Things I'm currenlty improving
-  * Microsoft Azure
-  * Data structures
-  * Algorithms
-
----
-
-### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Cloud Technologies I have learned:
-
-* [<img width="26px" src="./images/amazonaws.svg" />](./images/amazonaws.svg) *aws*
-* [<img width="26px" src="./images/netlify.svg" />](./images/netlify.svg)  *netlify*
-* [<img width="26px" src="./images/heroku.svg" />](./images/heroku.svg) *heroku*
+  * Programming language - javascript/typescript, python
+  * Frontend frameworks - ReactJS, NextJS, SolidJS, Vue, TailwindCSS, ChakraUI, MaterialUi, and Zustand
+  * Backend frameworks - TRPC, NestJS, Hapi, and ExpressJS
+  * Infrastracture as a Code Frameworks - CDK and SST
+  * AWS is my go to cloud technology other than that I have used vercel for deploying simple projects
 
 ---
 
@@ -31,7 +21,6 @@ more about *cloud technologies*.
 
 1. [PMD LENDING APPLICATION](https://pmdlending.com) - built with nodeJS, reactJS, redis, RDS Mysql, Docker, and hosted in AWS EC2
 2. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
-3. *Project I'm currently working on* - [sample UI](https://mediaclone.herokuapp.com/)  
 ---
 
 ### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Certifcates/Awards:
@@ -44,6 +33,7 @@ more about *cloud technologies*.
 ** 💬 Contact me through:**  
 marcotheobutalid@gmail.com  
 theoaguilar123@gmail.com
+scaledevs@gmail.com
 <!--
 **mabutalid/mabutalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
