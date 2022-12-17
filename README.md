@@ -16,6 +16,8 @@ it can build applications and making integrations smoother. I'm always trying ne
   * Databases - PlanetScale(MySql serverless database)/RDS, Dynamodb, and Mongdb
   * AWS is my go to cloud technology other than that I have used vercel for deploying simple projects
 
+I'm currently interested in SST, SolidJS, Turbopack, NextJSv13
+
 ---
 
 ### 🔭 Projects:
