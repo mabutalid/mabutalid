@@ -16,14 +16,15 @@ it can build applications and making integrations smoother. I'm always trying ne
   * Databases - PlanetScale(MySql serverless database)/RDS, Dynamodb, and Mongdb
   * AWS is my go to cloud technology other than that I have used vercel for deploying simple projects
 
-I'm currently interested in SST, SolidJS, Turbopack, NextJSv13
+I'm currently interested in React Server Components and Server Actions as it brings a new options to build your apps and handle data
 
 ---
 
 ### 🔭 Projects:
 
-1. [PMD LENDING APPLICATION](https://pmdlending.com) - built with nodeJS, reactJS, redis, RDS Mysql, Docker, and hosted in AWS EC2
-2. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
+1. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
+2. [HYDRO MANILA RESORT] - built with NextJS, Mongodb, Cognito, and Paymongo
+3. [Villa Leonora resort] - built with NextJS, Mongodb, Cognito, and Paymongo
 ---
 
 ### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Certifcates/Awards:
