@@ -23,8 +23,9 @@ I'm currently interested in React Server Components and Server Actions as it bri
 ### 🔭 Projects:
 
 1. [A MULTI MEDIA ARTIST PORTFOLIO](https://www.gualbertsansual.com/) - built with reactJS and hosted in netlify
-2. [HYDRO MANILA RESORT](https://www.hydroresortmnl.com/) - built with NextJS, Mongodb, Cognito, and Paymongo
-3. [Villa Leonora resort](https://villaleonoraresort.com/) - built with NextJS, Mongodb, Cognito, and Paymongo
+2. [LAFONSAS] - built with NextJS, Tailwind, Mongodb, and Cognito (A system to track payments and deliveries for their business)
+3. [HYDRO MANILA RESORT](https://www.hydroresortmnl.com/) - built with NextJS, Mongodb, Cognito, and Paymongo (booking resort)
+4. [Villa Leonora resort](https://villaleonoraresort.com/) - built with NextJS, Mongodb, Cognito, and Paymongo (booking resort)
 ---
 
 ### [<img width="26px" src="./images/iconmonstr-weather-12.svg" />](./images/iconmonstr-weather-12.svg) Certifcates/Awards:
